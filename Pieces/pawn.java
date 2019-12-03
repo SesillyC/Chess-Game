@@ -6,7 +6,6 @@ import board.board;
 
 public class pawn extends anyPiece{
 
-	//jyh
 	public pawn(anyPiece a) {
 		super(a);
 		if (!(a instanceof pawn))
